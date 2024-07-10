@@ -1,0 +1,24 @@
+Ana Yapı -> section > .container > .row > col yapısı
+text-decoration: none; -> Bootstrap'teki karşılığı text-decoration-none classı'dır.
+1 rem = 16px
+
+-Bootstrap Padding Sistemi
+
+p-0 -> Dört kenardan iç genişlik  px-0 -> sağ ve sol kenardan  py-0 -> üst ve alt kenardan
+p-1 -> Dört kenardan iç genişlik  px-1 -> sağ ve sol kenardan  py-1 -> üst ve alt kenardan
+p-2 -> Dört kenardan iç genişlik  px-2 -> sağ ve sol kenardan  py-2 -> üst ve alt kenardan
+p-3 -> Dört kenardan iç genişlik  px-3 -> sağ ve sol kenardan  py-3 -> üst ve alt kenardan
+p-4 -> Dört kenardan iç genişlik  px-4 -> sağ ve sol kenardan  py-4 -> üst ve alt kenardan
+p-5 -> Dört kenardan iç genişlik  px-5 -> sağ ve sol kenardan  py-5 -> üst ve alt kenardan
+
+(p-0, p-1, p-2, p-3, p-4, p-5 değerleri örk: pl-1, pr-0, pt-4, pb-5 şeklinde de yazılabilir.bu şekilde tek kenardan iç genişlik verilir.)
+
+-Boostrap Margine Sistemi
+Padding ile gerçekleştirilen sistemin aynısı (m-0, mx-1, my-2, ml-3 gibi.)
+
+text-right -> div ve div türleri hariç tüm html elementlerini sağ tarafa alır. Css'teki karşılı text-align:right;
+text-left -> div ve div türleri hariç tüm html elementlerini sol tarafa alır. Css'teki karşılı text-align:left;
+text-center -> div ve div türleri hariç tüm html elementlerini orta tarafa alır. Css'teki karşılı text-align:center;
+text-justify -> div ve div türleri hariç tüm html elementlerini sola ve sağa yaslı bir şekilde konumlandır. Css'teki karşılı text-align:justify;
+
+lead -> Yazıyı bir tık inceltiyor.
